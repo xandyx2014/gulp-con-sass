@@ -1,0 +1,13 @@
+/* line 2, scss/style.scss */
+body {
+  background: blue; }
+  /* line 4, scss/style.scss */
+  body p {
+    color: blue;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row; }
